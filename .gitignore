@@ -1,0 +1,28 @@
+# Flutter
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+coverage/
+*.iml
+.idea/
+.vscode/
+
+# Secrets / store
+.env
+.env.*
+!.env.example
+env/*.json
+!env/*.example.json
+**/google-services.json
+**/GoogleService-Info.plist
+**/*service-account*.json
+**/*.keystore
+**/*.jks
+**/key.properties
+**/Pods/
+**/DerivedData/
+*.ipa
+*.apk
+*.aab

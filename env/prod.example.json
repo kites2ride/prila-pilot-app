@@ -1,0 +1,5 @@
+{
+  "API_BASE_URL": "https://api.example.com/api/v1",
+  "APP_KIND": "pilot",
+  "SOCKET_URL": "https://api.example.com"
+}
